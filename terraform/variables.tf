@@ -7,11 +7,11 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  description = "Existing EC2 Key Pair name"
+  description = "chellama"
   type        = string
 }
 
 variable "security_group_id" {
-  description = "Existing Security Group ID"
+  description = "sg-049323ce6c168dc4d"
   type        = string
 }
