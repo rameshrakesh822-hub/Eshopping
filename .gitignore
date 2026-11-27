@@ -3,3 +3,7 @@ node_modules/
 npm-debug.log
 tools/
 terraform.tfvars
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.*
